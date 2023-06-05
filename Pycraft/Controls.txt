@@ -1,0 +1,7 @@
+WASD to move
+Space to jump
+Y to toggle debug
+1-9 for blocks
+left mouse to destroy
+right mouse to place
+p to save your world. It will load the next time you run the game. If you delete the save file in the root in the same directory as the python file, it will create a new world.

@@ -1,11 +1,7 @@
 '''
 I will not be adding an inventory system or crafting. It is a simple creative minecraft clone.
 '''
-"SHADER UPDATE"
-
-'''
-bloom
-'''
+'''TREE UPDATE'''
 #Imports:
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController as cam

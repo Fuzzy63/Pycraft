@@ -1,0 +1,7 @@
+V1.0 - 1.2:
+adding the base for the game.
+
+V1.3
+Hand Icon
+Tweaked the seeds
+Added trees!
